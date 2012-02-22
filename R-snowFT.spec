@@ -11,10 +11,9 @@ URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_1.2-0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
-Requires:         R-snow 
-Requires:         R-rpvm R-Rmpi R-rlecuyer R-rsprng 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-snow
-BuildRequires:    R-rpvm R-Rmpi R-rlecuyer R-rsprng 
+Requires:         R-snow R-rpvm R-Rmpi R-rlecuyer R-rsprng
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-snow R-rpvm R-Rmpi R-rlecuyer R-rsprng
 
 %description
 Extension of the snow package supporting fault tolerant and reproducible
