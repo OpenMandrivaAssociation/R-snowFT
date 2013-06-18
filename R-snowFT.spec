@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.2_0
-Release:          1
+Release:          2
 Summary:          Fault Tolerant Simple Network of Workstations
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
