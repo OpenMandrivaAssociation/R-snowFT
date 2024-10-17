@@ -7,7 +7,7 @@ Release:          2
 Summary:          Fault Tolerant Simple Network of Workstations
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_1.3-0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
